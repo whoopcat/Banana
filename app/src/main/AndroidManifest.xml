@@ -20,7 +20,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".MainActivity3"
+            android:name=".`MainActivity3(sub)`"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
